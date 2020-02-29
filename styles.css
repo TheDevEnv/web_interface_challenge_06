@@ -33,6 +33,7 @@ body {
   border-radius: 5px;
   overflow: hidden;
   display: flex;
+  box-shadow: 0px 5px 16px #25242452;
 }
 
 .content-left {
